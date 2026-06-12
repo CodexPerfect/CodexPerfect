@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://t.me/sexypym">
-  <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
+  <img src="https://img.shields.io/badge/-᧘𝛈ᛖꭷɭ✨-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
 </a>
   
 ---
@@ -37,11 +37,8 @@
 
 <p align="center">
   <a href="https://t.me/mistubots">
-    <img src="https://img.shields.io/badge/-purvi__updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/-mistubots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="https://t.me/pur">
-    <img src="https://img.shields.io/badge/-purvi__bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
-  </a>
-</p>
+  
 
 ---
